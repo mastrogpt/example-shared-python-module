@@ -1,0 +1,6 @@
+first/
+second/
+!packages/demo/first
+!packages/demo/second
+common/build
+common/*.egg-info
